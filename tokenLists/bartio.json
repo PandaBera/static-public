@@ -205,6 +205,15 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/arbera.png",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x13E971F11B34ef541606a7A8062EDA32F75C0078",
+      "symbol": "pandabera",
+      "name": "Pandabera",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/pandabera.png",
+      "tags": []
     }
   ],
   "version": {
