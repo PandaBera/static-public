@@ -205,6 +205,15 @@
       "decimals": 18,
       "logoURI": "https://static.kodiak.finance/tokens/arbera.png",
       "tags": []
+    },
+        {
+      "chainId": 80084,
+      "address": "0x8e337e095F31071F24bF408241629adb29Bb6ee2",
+      "symbol": "BURA",
+      "name": "bura",
+      "decimals": 18,
+      "logoURI": "https://static.kodiak.finance/tokens/bura.png",
+      "tags": []
     }
   ],
   "version": {
